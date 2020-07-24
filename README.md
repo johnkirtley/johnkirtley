@@ -2,12 +2,13 @@
 
 <a href="https://linkedin.com/in/johnkirtley16" target="_blank">
   <img align="left" alt="John Kirtley | Linkedin " width="30px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-</a>
+  
 <a href="https://twitter.com/johnkirtley_" target="_blank">
   <img align="left" alt="John Kirtley | Twitter" width="31px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+
 <a href="https://dev.to/johnkirtley_" target="_blank">
-  <img align="left" alt="Anurag's Discord" width="31px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fdevto&psig=AOvVaw2aF5kSE6k_3n7piEoGhBLG&ust=1595715055886000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiR5_rz5uoCFQAAAAAdAAAAABAD" />
+  <img align="left" alt="John Dev Profile" width="31px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
 </a>
 
 <br/>
