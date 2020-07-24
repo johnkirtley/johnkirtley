@@ -6,9 +6,12 @@
 <a href="https://twitter.com/johnkirtley_" target="_blank">
   <img align="left" alt="John Kirtley | Twitter" width="31px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://dev.to/johnkirtley_" target="_blank">
+  <img align="left" alt="Anurag's Discord" width="31px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fdevto&psig=AOvVaw2aF5kSE6k_3n7piEoGhBLG&ust=1595715055886000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiR5_rz5uoCFQAAAAAdAAAAABAD" />
 </a>
+
+<br/>
+
 
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnkirtley&count_private=true&show_icons=true&theme=radical)
 
