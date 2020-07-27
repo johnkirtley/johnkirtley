@@ -1,4 +1,4 @@
-**🔎 Currently searching for my next role**
+**🔎 Currently Searching For My Next Role**
 
 
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnkirtley&count_private=true&show_icons=true&theme=radical)
