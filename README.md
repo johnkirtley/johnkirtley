@@ -13,7 +13,6 @@
   <a href="https://dev.to/johnkirtley_" target="_blank">
     <img align="left" alt="John Dev Profile" width="41px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
   </a>
-
 </div>
 
 <br>
@@ -27,7 +26,7 @@
 - 📊 Previous financial analyst & consultant turned developer.
 - 🔎 Currently searching for my next role.
 - 🌱 Learning `Typescript` and `AWS`.
-- 👯 Enjoy collaborating on `websites` and `apps`.
+- 👥 Enjoy collaborating on `websites` and `apps`.
 
 **Frequently Used Languages and Tools:**  
 
@@ -36,8 +35,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkirtley&layout=compact)
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnkirtley&count_private=true&show_icons=true&theme=default)
 
 
