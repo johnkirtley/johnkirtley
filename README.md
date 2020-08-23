@@ -27,7 +27,7 @@
 
 - 📊 Previous financial analyst & consultant turned developer.
 - 🔎 Currently searching for my next role.
-- 👥 Enjoy collaborating on `open source` projects.
+- 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love international travel.
 
 
