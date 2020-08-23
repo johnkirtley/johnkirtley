@@ -23,7 +23,7 @@
 <h3>💻 Full-Stack Engineer | 🌏 Nevada, USA </h3>
 </div>
 
-### About me
+### About Me
 
 - 📊 Previous financial analyst & consultant turned developer.
 - 🔎 Currently searching for my next role.
