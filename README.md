@@ -16,6 +16,7 @@
 
 </div>
 
+<br>
 
 <div align="center">
 <h3>💻 Full-Stack Engineer | 🌏 Nevada, USA </h3>
