@@ -26,7 +26,7 @@
 ### About Me
 
 - 📊 Previous financial analyst & consultant turned developer.
-- 🔎 Currently searching for my next role.
+- ⚡️ Currently developing at <a href="https://speedboostr.com">Speed Boostr</a>.
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love international travel.
 
