@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Full-Stack Engineer | 🌏 Nevada, USA </h3>
+<h3>💻 Full-Stack Developer | 🌏 Nevada, USA </h3>
 </div>
 
 ### About Me
