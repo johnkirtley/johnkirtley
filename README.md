@@ -26,7 +26,7 @@
 ### About Me
 
 - 📊 Previous financial analyst & consultant turned developer.
-- ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com" target="_blank">Speed Boostr</a>.
+- ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com?ref=johnkirtley" target="_blank">Speed Boostr</a>.
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love international travel.
 
