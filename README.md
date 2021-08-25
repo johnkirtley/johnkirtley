@@ -26,7 +26,7 @@
 ### About Me
 
 - 📊 Previous financial analyst & consultant turned developer.
-- ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com?ref=johnkirtley" target="_blank">Speed Boostr</a>.
+- ⚡️ Dev at <a href="https://www.blueacornici.com/" target="_blank">Blue Acorn iCi</a>.
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love international travel.
 
