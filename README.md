@@ -20,16 +20,8 @@
 <br>
 
 <div align="center">
-<h3>💻 Full-Stack Developer | 🌏 Nevada, USA </h3>
+<h3>💻 Full-Stack Developer</h3>
 </div>
-
-### About Me
-
-- 📊 Previous financial analyst & consultant turned developer.
-- ⚡️ Dev at <a href="https://www.blueacornici.com/" target="_blank">Blue Acorn iCi</a>.
-- 👨‍💻 Enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love international travel.
-
 
 ### Frequently Used Languages and Tools 
 
